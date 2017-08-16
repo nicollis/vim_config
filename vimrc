@@ -37,6 +37,8 @@ Plugin 'jeetsukumaran/vim-buffergator'
 Plugin 'gilsondev/searchtasks.vim'
 Plugin 'Shougo/neocomplete.vim'
 Plugin 'tpope/vim-dispatch'
+Plugin 'EasyGrep'
+Plugin 'yssl/QFEnter'
 
 " Generic Programming Support 
 Plugin 'jakedouglas/exuberant-ctags'
