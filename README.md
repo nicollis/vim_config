@@ -31,6 +31,10 @@ vim
 
 :PluginInstall 
 
+## Add custom NERDtree keybindings
+
+cp ~/Downloads/vim/nerdtree_plugin/yank_mapping.vim ~/.vim/nerdtree_plugin/yank_mapping.vim 
+
 ## All Done! 
 
 Make sure to read the vimrc file to see the key mappings
