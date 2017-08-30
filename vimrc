@@ -343,6 +343,7 @@ let g:fzf_history_dir = '~/.local/share/fzf-history'
 """""""""""""""""""""""""""""""""""""
 map <C-n> :NERDTreeToggle<CR>
 map <C-m> :TagbarToggle<CR>
+map <S-n> :NERDTreeFind<CR>
 
 " Omnicomplete Better Nav
 inoremap <expr> <c-j> ("\<C-n>")
