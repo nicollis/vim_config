@@ -149,6 +149,9 @@ let g:elite_mode=1
 " Enable highlighting of the current line
 set cursorline
 
+" Fix CtrlP Setting local directory
+let g:ctrlp_working_path_mode = 0
+
 " Theme and Styling 
 set t_Co=256
 set background=dark
