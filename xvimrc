@@ -1,0 +1,24 @@
+"""""""""""""""""""""""""""""""""""""
+" Nic Ollis XVim configuration 
+"""""""""""""""""""""""""""""""""""""
+set nocompatible
+set nowrap
+set relativenumber
+set guioptions=r
+set blinkcursor
+
+
+"""""""""""""""""""""""""""""""""""""
+" Configuration Section
+"""""""""""""""""""""""""""""""""""""
+
+" Show linenumbers
+set number
+set ruler
+
+" Always display the status line
+set laststatus=2
+
+" Enable highlighting of the current line
+set cursorline
+

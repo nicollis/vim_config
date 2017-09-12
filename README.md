@@ -35,6 +35,14 @@ vim
 
 cp ~/Downloads/vim/nerdtree_plugin/yank_mapping.vim ~/.vim/nerdtree_plugin/yank_mapping.vim 
 
+## XVim Config
+
+If wanting to use Vim keybindings inside of Xcode 
+
+cp ~/Downloads/xvimrc ~/.xvimrc 
+
+Follow the setup and install directions for [XVim](xvim.org)
+
 ## All Done! 
 
 Make sure to read the vimrc file to see the key mappings
