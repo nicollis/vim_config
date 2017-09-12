@@ -41,7 +41,7 @@ If wanting to use Vim keybindings inside of Xcode
 
 cp ~/Downloads/xvimrc ~/.xvimrc 
 
-Follow the setup and install directions for [XVim](xvim.org)
+Follow the setup and install directions for [XVim](http://xvim.org)
 
 ## All Done! 
 
