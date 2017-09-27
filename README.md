@@ -43,6 +43,28 @@ cp ~/Downloads/xvimrc ~/.xvimrc
 
 Follow the setup and install directions for [XVim](http://xvim.org)
 
+## Zsh config
+
+Run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+Copy the config over
+
+`cp ~/Downloads/zshrc ~/.zshrc`
+
+## Setup Pokemon terminal theme
+
+Install
+`npm install --global pokemon-terminal`
+
+config 
+```
+echo PATH="$HOME/.Pokemon-Terminal:${PATH}" >> ~/.bash_profile
+source ~/.bash_profile
+
+echo PATH="$HOME/.Pokemon-Terminal:$"PATH"" >> ~/.zshrc
+source ~/.zshrc
+```
+
 ## All Done! 
 
 Make sure to read the vimrc file to see the key mappings
