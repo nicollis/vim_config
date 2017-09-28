@@ -47,9 +47,11 @@ Follow the setup and install directions for [XVim](http://xvim.org)
 
 Run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-Copy the config over
+Copy the config over and theme
 
 `cp ~/Downloads/zshrc ~/.zshrc`
+
+`cp ~/Downloads/oh-my-zsh/custom/themes/dev.zsh-theme ~/.oh-my-zsh/custom/themes/dev.zsh-theme`
 
 ## Setup Pokemon terminal theme
 
